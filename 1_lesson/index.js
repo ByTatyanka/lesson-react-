@@ -46,4 +46,5 @@ let calculateArea = (figure, arg) => {
 }
 
 calculateArea('box', [3, 4]);
+calculateArea('box', [3, 3]);
 calculateArea('triangle', [3, 4, 4]);
