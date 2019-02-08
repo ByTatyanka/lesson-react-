@@ -14,8 +14,17 @@ export default class WelcomeModal extends Component{
     render(){
 
         const divStyle = {
-            height: 100,
-            width: 300,
+            width: 400,
+            background: '#E6E6FA',
+            border: ' 1px solid black',
+            position: 'fixed',
+            top: '30%',
+            left: '50%',
+            transform: 'translate(-50%, -50%)'
+        };
+        const hStyle = {
+            font: '20px bold',
+            background: '#E6E6FA',
         };
         if (!this.state.open) {
             return(<></>)
@@ -23,8 +32,8 @@ export default class WelcomeModal extends Component{
 
         return(
             <div style={divStyle} >
-                <h1>Lorem ipsum dolor sit amet.</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum in incidunt numquam quis sapiente, sequi.</p>
+                <h1 style={hStyle}>Lorem ipsum dolor sit amet. <hr/> </h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam beatae culpa dolores ducimus earum, harum hic inventore ipsa minima minus molestiae nemo porro quos sequi soluta tenetur totam veniam voluptatum!</p>
                 <button onClick={this.winClose}>Close</button>
             </div>
         )

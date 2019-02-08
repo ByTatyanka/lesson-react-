@@ -10,7 +10,7 @@ export default class Blog extends Component{
         let post =  this.props.posts.map((val, index) => {
             return <Post item = {val}/>
         });
-        console.log(post)
+
         return(
             <div>
                 {post}
@@ -21,4 +21,4 @@ export default class Blog extends Component{
 
 Blog.propTypes = {
         posts: PropTypes.array.isRequired,
-}
+};

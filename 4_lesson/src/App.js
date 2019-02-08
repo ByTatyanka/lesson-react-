@@ -8,23 +8,23 @@ class App extends Component {
         let posts = [
             {
                 title: 'Lorem ipsum dolor sit amet.',
-                postBody: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium alias aliquid dignissimos dolorum iure minus.'
+                postBody: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias cumque, cupiditate esse id laboriosam molestias perferendis placeat soluta velit, veniam voluptates voluptatum! Commodi, consectetur consequatur eius iusto molestiae natus nostrum, numquam, officiis perspiciatis placeat quo similique sint soluta totam velit!'
             },
             {
                 title: 'Lorem ipsum dolor sit amet.',
-                postBody: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium alias aliquid dignissimos dolorum iure minus.'
+                postBody: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias cumque, cupiditate esse id laboriosam molestias perferendis placeat soluta velit, veniam voluptates voluptatum! Commodi, consectetur consequatur eius iusto molestiae natus nostrum, numquam, officiis perspiciatis placeat quo similique sint soluta totam velit!'
             },
             {
                 title: 'Lorem ipsum dolor sit amet.',
-                postBody: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium alias aliquid dignissimos dolorum iure minus.'
+                postBody: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias cumque, cupiditate esse id laboriosam molestias perferendis placeat soluta velit, veniam voluptates voluptatum! Commodi, consectetur consequatur eius iusto molestiae natus nostrum, numquam, officiis perspiciatis placeat quo similique sint soluta totam velit!'
             },
             {
                 title: 'Lorem ipsum dolor sit amet.',
-                postBody: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium alias aliquid dignissimos dolorum iure minus.'
+                postBody: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias cumque, cupiditate esse id laboriosam molestias perferendis placeat soluta velit, veniam voluptates voluptatum! Commodi, consectetur consequatur eius iusto molestiae natus nostrum, numquam, officiis perspiciatis placeat quo similique sint soluta totam velit!'
             },
             {
                 title: 'Lorem ipsum dolor sit amet.',
-                postBody: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium alias aliquid dignissimos dolorum iure minus.'
+                postBody: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias cumque, cupiditate esse id laboriosam molestias perferendis placeat soluta velit, veniam voluptates voluptatum! Commodi, consectetur consequatur eius iusto molestiae natus nostrum, numquam, officiis perspiciatis placeat quo similique sint soluta totam velit!'
             }
         ];
 

@@ -16,4 +16,4 @@ export default class Post extends Component {
 
 Post.propTypes = {
         item: PropTypes.object.isRequired,
-}
+};
