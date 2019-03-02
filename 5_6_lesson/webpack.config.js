@@ -2,7 +2,7 @@
     HTMLplugin = require('html-webpack-plugin');
     module.exports = {
         entry:{
-            main: path.resolve(__dirname, 'src', 'App.js'),
+            main: path.resolve(__dirname, '5.2_lesson', 'App.js'),
         },
         output : {
             path: path.resolve(__dirname, 'dist'),
@@ -32,7 +32,7 @@
         },
         plugins: [
             new HTMLplugin({
-                template: path.resolve(__dirname, 'src', 'index.html'),
+                template: path.resolve(__dirname, '5.2_lesson', 'index.html'),
                 filename: 'index.html'
             })
         ],

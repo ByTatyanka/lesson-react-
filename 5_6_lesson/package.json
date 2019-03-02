@@ -2,7 +2,7 @@
   "name": "2_lesson",
   "version": "1.0.0",
   "description": "",
-  "main": "src/App.js",
+  "main": "5.2_lesson",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "react": "^16.7.0",
